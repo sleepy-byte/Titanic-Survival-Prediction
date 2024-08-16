@@ -8,9 +8,8 @@ The dataset used for this project is available on Kaggle: [Titanic: Machine Lear
 
 ## Project Structure
 
-- `titanic_model.py`: Python script for data processing, model training, and prediction.
+- `titanic_analysis.py`: Python script for data processing, model training, and prediction.
 - `submission.csv`: Final predictions submitted to Kaggle.
-- `titanic_model.ipynb`: Jupyter notebook version of the project (optional).
 
 ## Model
 
@@ -22,3 +21,5 @@ To run the code, you'll need to install the following libraries:
 
 ```bash
 pip install pandas numpy scikit-learn
+
+
